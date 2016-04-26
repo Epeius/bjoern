@@ -10,3 +10,5 @@ subsequent mining with graph database queries.
 You can find its documentation here:
 
 http://bjoern.readthedocs.org/en/latest/
+
+Initial Commit
